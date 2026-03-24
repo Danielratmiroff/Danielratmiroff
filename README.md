@@ -1,9 +1,9 @@
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=600&color=D41DF7&width=435&lines=Hey%2C+I'm+Daniel+%3A)+;Powered+by+coffee+and+technical+debt;%3Cactual+interesting+quote+goes+here%3E" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=300&color=D41DF7&width=435&lines=Hey%2C+I'm+Daniel+%3A)+;Turning+caffeine+into+AI+systems." alt="Typing SVG" /></a>
 </div>
 
 <div align="center">
-  <h3>🤖 Software + AI Engineer</h3>
+  <h3>🤖 AI Engineer</h3>
 </div>
 
 <br/>
